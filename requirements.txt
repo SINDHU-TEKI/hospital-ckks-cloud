@@ -4,3 +4,4 @@ tenseal
 python-multipart
 pydantic
 requests
+numpy
